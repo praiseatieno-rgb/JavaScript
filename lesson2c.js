@@ -18,7 +18,7 @@ else{
 
 console.log("=======================================")
 
-//come up with your own conditional statement
+// assignment, come up with your own conditional statement
 let height = 4.8
 
 if (height <4.9){
